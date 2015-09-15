@@ -1,0 +1,12 @@
+{
+    "name": "ara/test",
+    "authors": [
+        {
+            "name": "Ara Gasparyan",
+            "email": "ara1987-87@mail.ru"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "dev-master"
+    }
+}
